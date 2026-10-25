@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class Variables : MonoBehaviour
 {
-    static int CorrectAnswer;
+    public int CorrectAnswer;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {

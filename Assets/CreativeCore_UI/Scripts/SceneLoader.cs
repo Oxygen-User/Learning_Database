@@ -10,6 +10,6 @@ public class SceneLoader : MonoBehaviour
 
     public void LoadNextInBuild()
     {
-        SceneManager.LoadScene((SceneManager.GetActiveScene().buildIndex + 1)%3);
+        SceneManager.LoadScene((SceneManager.GetActiveScene().buildIndex + 1)%5);
     }
 }
