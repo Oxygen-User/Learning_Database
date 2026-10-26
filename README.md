@@ -32,11 +32,19 @@ Download this whole repository and view the project altogether on unity editor.
 change scenes by pressing next scene button on the screen.
 <img width="395" height="72" alt="image" src="https://github.com/user-attachments/assets/5be4611e-4861-4f65-8c98-ef205ac42cbf" />
 
-- Explore the capability of the menus with the first 2 scenes and use WASD + right click 'n drag in the 2nd scene. 
+- Explore the capability of the menus with the first 2 scenes and use WASD + right click 'n drag to move the camera. 
 - The pdf renderer doesn't work when the project is opened from web. Navigate the pdf using the "next" and "previous" buttons. The pdf reader is from [this](https://github.com/kdpkke/UnityPDFViewer) repo.
 - In 4th scene take a small geometry quiz. I couldnt solve some of the quiz questions so they dont have a corrct button, just press next question. 
 - Enter the hardest excercise you can do in each dropdown on sports program making scene to get an adjusted version of BWF subreddits [reccomended routine](https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine/?screen_view_count=1&ext-referrer=DIRECT). 
 
 
+## In app pictures
+
+<img width="1917" height="1198" alt="Screenshot 2026-10-26 215933" src="https://github.com/user-attachments/assets/04357573-1450-4e46-a83d-38d3766aab05" />
+<img width="1917" height="1198" alt="Screenshot 2026-10-26 215939" src="https://github.com/user-attachments/assets/0f8d9d6e-3a58-4443-a318-20f1bf49d70e" />
+<img width="1907" height="1198" alt="Screenshot 2026-10-26 215947" src="https://github.com/user-attachments/assets/7bf7c16f-2a3c-4771-abcf-837d12c26170" />
+<img width="1917" height="1198" alt="Screenshot 2026-10-26 215951" src="https://github.com/user-attachments/assets/ce8c7978-83ee-4bf1-87b3-38f373e62c80" />
+<img width="1917" height="1142" alt="Screenshot 2026-10-26 215957" src="https://github.com/user-attachments/assets/c2ff9845-a9d8-474a-97dd-e0219affcb29" />
+<img width="1917" height="1198" alt="Screenshot 2026-10-26 220013" src="https://github.com/user-attachments/assets/63aeaee3-e184-4a75-bbc6-0d28b778093b" />
 
 
