@@ -9,6 +9,10 @@ This includes
 - A gamified Quiz in the fourth scene.
 - A calisthenics sports program maker in the fifth scene
 
+  Made for [Terra](https://terra.hackclub.com/r/F7S2)
+
+  Some of the assets are *not* mine and belong to their respective owners.
+
 
 ## How to Open
 
